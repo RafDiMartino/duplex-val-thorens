@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/duplex-val-thorens/static/css/main.a617e044.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.9af87b2b.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.9af87b2b.chunk.js.map",
+    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.eed10da3.js",
+    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.eed10da3.js.map",
+    "static/js/2.784a6bf6.chunk.js": "/duplex-val-thorens/static/js/2.784a6bf6.chunk.js",
+    "static/js/2.784a6bf6.chunk.js.map": "/duplex-val-thorens/static/js/2.784a6bf6.chunk.js.map",
+    "static/js/3.81e5c643.chunk.js": "/duplex-val-thorens/static/js/3.81e5c643.chunk.js",
+    "static/js/3.81e5c643.chunk.js.map": "/duplex-val-thorens/static/js/3.81e5c643.chunk.js.map",
+    "index.html": "/duplex-val-thorens/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/duplex-val-thorens/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.784a6bf6.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.784a6bf6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/duplex-val-thorens/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eed10da3.js",
+    "static/js/2.784a6bf6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9af87b2b.chunk.js"
+  ]
+}

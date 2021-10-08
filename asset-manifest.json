@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.af2455f9.chunk.css",
+    "main.css": "/duplex-val-thorens/static/css/main.88e20c70.chunk.css",
     "main.js": "/duplex-val-thorens/static/js/main.4a14c62a.chunk.js",
     "main.js.map": "/duplex-val-thorens/static/js/main.4a14c62a.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.c402890f.js",
@@ -10,13 +10,13 @@
     "static/js/3.a5638111.chunk.js": "/duplex-val-thorens/static/js/3.a5638111.chunk.js",
     "static/js/3.a5638111.chunk.js.map": "/duplex-val-thorens/static/js/3.a5638111.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
-    "static/css/main.af2455f9.chunk.css.map": "/duplex-val-thorens/static/css/main.af2455f9.chunk.css.map",
+    "static/css/main.88e20c70.chunk.css.map": "/duplex-val-thorens/static/css/main.88e20c70.chunk.css.map",
     "static/js/2.3541a9ee.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.3541a9ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c402890f.js",
     "static/js/2.3541a9ee.chunk.js",
-    "static/css/main.af2455f9.chunk.css",
+    "static/css/main.88e20c70.chunk.css",
     "static/js/main.4a14c62a.chunk.js"
   ]
 }

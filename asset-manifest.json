@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.c10a67c8.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.b134a9f0.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.b134a9f0.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.1c786d68.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.1c786d68.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.b5be1807.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.b5be1807.js.map",
     "static/js/2.3541a9ee.chunk.js": "/duplex-val-thorens/static/js/2.3541a9ee.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/main.c10a67c8.chunk.css.map": "/duplex-val-thorens/static/css/main.c10a67c8.chunk.css.map",
     "static/js/2.3541a9ee.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.3541a9ee.chunk.js.LICENSE.txt",
-    "static/media/home-bedroom.be8756f3.jpg": "/duplex-val-thorens/static/media/home-bedroom.be8756f3.jpg",
+    "static/media/home-bedroom2-cropped.76c9df83.jpg": "/duplex-val-thorens/static/media/home-bedroom2-cropped.76c9df83.jpg",
     "static/media/living-room-cropped.471e6dd0.jpg": "/duplex-val-thorens/static/media/living-room-cropped.471e6dd0.jpg",
     "static/media/description.css": "/duplex-val-thorens/static/media/val thores3.2287afc9.jpg",
     "static/media/view-cropped.32474efb.jpg": "/duplex-val-thorens/static/media/view-cropped.32474efb.jpg"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b5be1807.js",
     "static/js/2.3541a9ee.chunk.js",
     "static/css/main.c10a67c8.chunk.css",
-    "static/js/main.b134a9f0.chunk.js"
+    "static/js/main.1c786d68.chunk.js"
   ]
 }

@@ -5,6 +5,7 @@ import Apartment from './pages/Apartment';
 import Rates from './pages/Rates';
 import Maps from './pages/Maps';
 import Contacts from './pages/Contacts';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/maps" exact component={Maps}/>
           <Route path="/contacts" exact component={Contacts}/>
         </Switch>
+        <Footer />
       </Router>
     </div>
   );

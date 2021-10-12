@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.00834439.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.c8f64ea1.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.c8f64ea1.chunk.js.map",
-    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.c402890f.js",
-    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.c402890f.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.18901322.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.321440fa.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.321440fa.chunk.js.map",
+    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.b5be1807.js",
+    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.b5be1807.js.map",
     "static/js/2.b98b1d1a.chunk.js": "/duplex-val-thorens/static/js/2.b98b1d1a.chunk.js",
     "static/js/2.b98b1d1a.chunk.js.map": "/duplex-val-thorens/static/js/2.b98b1d1a.chunk.js.map",
-    "static/js/3.a5638111.chunk.js": "/duplex-val-thorens/static/js/3.a5638111.chunk.js",
-    "static/js/3.a5638111.chunk.js.map": "/duplex-val-thorens/static/js/3.a5638111.chunk.js.map",
+    "static/js/3.f48442a9.chunk.js": "/duplex-val-thorens/static/js/3.f48442a9.chunk.js",
+    "static/js/3.f48442a9.chunk.js.map": "/duplex-val-thorens/static/js/3.f48442a9.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
-    "static/css/main.00834439.chunk.css.map": "/duplex-val-thorens/static/css/main.00834439.chunk.css.map",
+    "static/css/main.18901322.chunk.css.map": "/duplex-val-thorens/static/css/main.18901322.chunk.css.map",
     "static/js/2.b98b1d1a.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.b98b1d1a.chunk.js.LICENSE.txt",
     "static/media/home-bedroom-resized.2cd357d9.jpg": "/duplex-val-thorens/static/media/home-bedroom-resized.2cd357d9.jpg",
     "static/media/living-room-resized.9fecd65f.jpg": "/duplex-val-thorens/static/media/living-room-resized.9fecd65f.jpg",
@@ -18,9 +18,9 @@
     "static/media/view-resized.6b69a2eb.jpg": "/duplex-val-thorens/static/media/view-resized.6b69a2eb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c402890f.js",
+    "static/js/runtime-main.b5be1807.js",
     "static/js/2.b98b1d1a.chunk.js",
-    "static/css/main.00834439.chunk.css",
-    "static/js/main.c8f64ea1.chunk.js"
+    "static/css/main.18901322.chunk.css",
+    "static/js/main.321440fa.chunk.js"
   ]
 }

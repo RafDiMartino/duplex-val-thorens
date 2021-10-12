@@ -1,0 +1,46 @@
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+        h2 {
+            font-size: 1rem;
+            margin: 3rem 3rem;
+            text-align: left;
+            font-weight: 400;
+        }
+        .view {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .view-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        h2 {
+            width: 50%;
+            margin: 1rem 0;
+            padding: 0rem 9rem;
+            text-align: left;
+            font-size: 1.25rem;
+            font-weight: 400;
+        }
+
+        .view {
+            width: 50%;
+            height: auto;
+        }
+    }
+
+    .reverse {
+        flex-direction: row-reverse;
+    }
+}

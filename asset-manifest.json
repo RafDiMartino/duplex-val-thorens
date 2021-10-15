@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.732675ca.chunk.css",
+    "main.css": "/duplex-val-thorens/static/css/main.50456bb7.chunk.css",
     "main.js": "/duplex-val-thorens/static/js/main.0ed8fa58.chunk.js",
     "main.js.map": "/duplex-val-thorens/static/js/main.0ed8fa58.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.565c06b8.js",
@@ -10,7 +10,7 @@
     "static/js/3.9a5304de.chunk.js": "/duplex-val-thorens/static/js/3.9a5304de.chunk.js",
     "static/js/3.9a5304de.chunk.js.map": "/duplex-val-thorens/static/js/3.9a5304de.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
-    "static/css/main.732675ca.chunk.css.map": "/duplex-val-thorens/static/css/main.732675ca.chunk.css.map",
+    "static/css/main.50456bb7.chunk.css.map": "/duplex-val-thorens/static/css/main.50456bb7.chunk.css.map",
     "static/js/2.cce5e174.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.cce5e174.chunk.js.LICENSE.txt",
     "static/media/home-bedroom-resized.2cd357d9.jpg": "/duplex-val-thorens/static/media/home-bedroom-resized.2cd357d9.jpg",
     "static/media/living-room-resized.9fecd65f.jpg": "/duplex-val-thorens/static/media/living-room-resized.9fecd65f.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.565c06b8.js",
     "static/js/2.cce5e174.chunk.js",
-    "static/css/main.732675ca.chunk.css",
+    "static/css/main.50456bb7.chunk.css",
     "static/js/main.0ed8fa58.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.4c339de8.chunk.css",
+    "main.css": "/duplex-val-thorens/static/css/main.cb482abf.chunk.css",
     "main.js": "/duplex-val-thorens/static/js/main.7ce6fe39.chunk.js",
     "main.js.map": "/duplex-val-thorens/static/js/main.7ce6fe39.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.16d798a4.js",
@@ -10,10 +10,10 @@
     "static/js/3.d7253dc9.chunk.js": "/duplex-val-thorens/static/js/3.d7253dc9.chunk.js",
     "static/js/3.d7253dc9.chunk.js.map": "/duplex-val-thorens/static/js/3.d7253dc9.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
-    "static/css/main.4c339de8.chunk.css.map": "/duplex-val-thorens/static/css/main.4c339de8.chunk.css.map",
+    "static/css/main.cb482abf.chunk.css.map": "/duplex-val-thorens/static/css/main.cb482abf.chunk.css.map",
     "static/js/2.ab290fe6.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.ab290fe6.chunk.js.LICENSE.txt",
-    "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.46cd7ef0.jpg",
-    "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.2549bd90.jpg",
+    "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
+    "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
     "static/media/home-bedroom-resized.66c02179.webp": "/duplex-val-thorens/static/media/home-bedroom-resized.66c02179.webp",
     "static/media/living-room-resized.0eac6946.webp": "/duplex-val-thorens/static/media/living-room-resized.0eac6946.webp",
     "static/media/map1.80936548.webp": "/duplex-val-thorens/static/media/map1.80936548.webp",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.16d798a4.js",
     "static/js/2.ab290fe6.chunk.js",
-    "static/css/main.4c339de8.chunk.css",
+    "static/css/main.cb482abf.chunk.css",
     "static/js/main.7ce6fe39.chunk.js"
   ]
 }

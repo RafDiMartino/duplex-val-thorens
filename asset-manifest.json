@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.0f83539a.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.df47aecc.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.df47aecc.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.7ffee268.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.7ffee268.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.1c1903e1.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.1c1903e1.js.map",
     "static/js/2.db138981.chunk.js": "/duplex-val-thorens/static/js/2.db138981.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.1c1903e1.js",
     "static/js/2.db138981.chunk.js",
     "static/css/main.0f83539a.chunk.css",
-    "static/js/main.df47aecc.chunk.js"
+    "static/js/main.7ffee268.chunk.js"
   ]
 }

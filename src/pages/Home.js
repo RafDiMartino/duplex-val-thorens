@@ -1,16 +1,19 @@
 import React from 'react'
 import "../styles/home.scss"
 import Description from '../components/description/Description'
-import Background from "../assets/view-resized.jpg"
-import HomeImage2 from "../assets/living-room-resized.jpg"
-import HomeImage3 from "../assets/home-bedroom-resized.jpg"
-
+import Background from "../assets/view-resized.webp"
+import HomeImage2 from "../assets/living-room-resized.webp"
+import HomeImage3 from "../assets/home-bedroom-resized.webp"
+import PageTitle from '../components/pages-title/PageTitle'
 
 function Home() {
     return (
-        <div className="home">
+        <div>
             <div className="img-container"></div>
-            <h1 className="welcome">We are delighted to offer you the opportunity to rent our 80 square metres apartment. Spread over two floors, situated on the top floor of the residence “Les Lauzieres”.</h1>
+            <PageTitle 
+                h1="Welcome"
+                h2="We are delighted to offer you the opportunity to rent our 80 square metres apartment. Spread over two floors, situated on the top floor of the residence “Les Lauzieres”."
+            />
             <Description 
                 className={"view-wrapper"}
                 text="This apartment offers one of the most amazing views of the mountains, and its fantastic location allows you to ski right up to the apartment entrance."

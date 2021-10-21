@@ -7,7 +7,7 @@ import ContactSupportIcon from '@material-ui/icons/ContactSupport';
 
 function Footer() {
     return (
-        <div className="footer-wrapper">
+        <footer className="footer-wrapper">
             <div className="footer-contacts">
                 <ul>
                     <li><BusinessIcon fontSize="small" mr={5} /><p>Résidence les Lauzières, Rue du soleil, 73440 VAL THORENS</p></li>
@@ -16,10 +16,11 @@ function Footer() {
                     <li><ContactSupportIcon fontSize="small" /><p>Contact Us</p></li>
                 </ul>
             </div>
+            <hr />
             <div className="footer-container">
                 <p className="madeBy">&copy; 2021 Duplex Val Thorens | by Raffaele Di Martino</p>
             </div>
-        </div>
+        </footer>
     )
 }
 

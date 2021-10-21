@@ -6,8 +6,12 @@ function Description({ text, image, className }) {
         <div>
             <div className="description">
                 <div className={className}>
-                    <h2>{text}</h2>
-                    <img  className="view" src={image} alt="view" />
+                    <img className="view" src={image} alt="view" />
+                    <div className="text-wrapper">
+                        <div className="border-text" />
+                        <h2 className="main-text">{text}</h2>
+                        <div className="border-text" /> 
+                    </div>  
                 </div>
             </div>
         </div>

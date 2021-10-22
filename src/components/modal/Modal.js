@@ -23,5 +23,5 @@ const Modal = ({ selectedImg, setSelectedImg }) => {
         </div>
     )
 }
-
+            // { selectedImg && <Modal selectedImg={selectedImg} setSelectedImg={setSelectedImg} />}
 export default Modal

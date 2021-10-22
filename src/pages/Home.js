@@ -16,7 +16,7 @@ function Home() {
             />
             <Description 
                 className={"view-wrapper"}
-                text="This apartment offers one of the most amazing views of the mountains, and its fantastic location allows you to ski right up to the apartment entrance."
+                text="This apartment offers one of the most amazing views of the mountains, and its fantastic location allows you to ski right up to the building entrance."
                 image={Background}
             />
             <Description 

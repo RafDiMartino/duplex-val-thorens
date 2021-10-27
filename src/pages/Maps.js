@@ -22,7 +22,6 @@ function Maps() {
                 <a href={Map1} target="_blank" rel="noreferrer"><img src={Map1} alt="Val Thorens map" /></a>
                 <a href={Map2} target="_blank" rel="noreferrer"><img src={Map2} alt="Val Thorens map" /></a>
             </div>
-
             <iframe title="Apartment Map in Val THorens" width="95%" height="500px" style={{border: "0"}} loading="lazy" allowFullScreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJs2VTQXmHiUcR-wd_4yz1MWI&key=AIzaSyAIOoRf6LLOSYcXx4ctKe46l5QJbjqm0ZY"></iframe>
         </div>
     )

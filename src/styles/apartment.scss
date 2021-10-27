@@ -6,3 +6,59 @@
     width: 100%;
     height: 25rem;
 }
+
+// .floor {
+//     width: 100%;
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     padding: 3rem 2rem 0;
+
+//     .ground-floor-wrapper{
+//         display: flex;
+//         flex-direction: column;
+//         justify-content: center;
+//         align-items: center;
+//         width: 100%;
+
+//         .hr-floors{
+//             width: 100px;
+//             height: 2px;
+//             background-color: var(--dropdown);
+//             border: none;
+//             margin: 2rem;
+//         }
+
+//         .h1-ground-floor{
+//             width: 100%;
+//             display: flex;
+//             justify-content: center;
+//             align-items: center;
+//             color: var(--mainText);
+//         }
+//     }
+
+
+//     .ul-ground-floor{
+//         width: 100%;
+//         display: flex;
+//         flex-direction: column;
+//         justify-content: flex-start;
+//         align-items: flex-start;
+//         padding: .5rem 2rem;
+//         color: var(--dropdown);
+//         font-size: 1.1rem;
+        
+//         li {
+//             list-style:circle;
+//             color: var(--mainText);
+//         }
+//     }
+// }
+
+// @media screen and (min-width: 1024px){
+//     .floor {
+//         flex-direction: row;
+//     }
+// }

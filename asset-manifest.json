@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.5bec42a9.chunk.css",
+    "main.css": "/duplex-val-thorens/static/css/main.204edd22.chunk.css",
     "main.js": "/duplex-val-thorens/static/js/main.0180e1cf.chunk.js",
     "main.js.map": "/duplex-val-thorens/static/js/main.0180e1cf.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js",
@@ -12,7 +12,7 @@
     "static/js/3.1ef7266b.chunk.js.map": "/duplex-val-thorens/static/js/3.1ef7266b.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.5bec42a9.chunk.css.map": "/duplex-val-thorens/static/css/main.5bec42a9.chunk.css.map",
+    "static/css/main.204edd22.chunk.css.map": "/duplex-val-thorens/static/css/main.204edd22.chunk.css.map",
     "static/js/2.d1d154fa.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.d1d154fa.chunk.js.LICENSE.txt",
     "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
     "static/media/board-game.895c4f79.png": "/duplex-val-thorens/static/media/board-game.895c4f79.png",
@@ -65,7 +65,7 @@
     "static/js/runtime-main.36f3b174.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.d1d154fa.chunk.js",
-    "static/css/main.5bec42a9.chunk.css",
+    "static/css/main.204edd22.chunk.css",
     "static/js/main.0180e1cf.chunk.js"
   ]
 }

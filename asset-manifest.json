@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.a82d4be9.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.8835d107.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.8835d107.chunk.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.bd04ecb3.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.a232f489.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.a232f489.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -12,10 +12,11 @@
     "static/js/3.1ef7266b.chunk.js.map": "/duplex-val-thorens/static/js/3.1ef7266b.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.a82d4be9.chunk.css.map": "/duplex-val-thorens/static/css/main.a82d4be9.chunk.css.map",
+    "static/css/main.bd04ecb3.chunk.css.map": "/duplex-val-thorens/static/css/main.bd04ecb3.chunk.css.map",
     "static/js/2.d1d154fa.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.d1d154fa.chunk.js.LICENSE.txt",
     "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
     "static/media/board-game.895c4f79.png": "/duplex-val-thorens/static/media/board-game.895c4f79.png",
+    "static/media/books.2b8e07f3.png": "/duplex-val-thorens/static/media/books.2b8e07f3.png",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
     "static/media/coffee-machine.7527b31e.png": "/duplex-val-thorens/static/media/coffee-machine.7527b31e.png",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
@@ -31,6 +32,7 @@
     "static/media/ff6.79200521.jpg": "/duplex-val-thorens/static/media/ff6.79200521.jpg",
     "static/media/ff7.b70d7190.jpg": "/duplex-val-thorens/static/media/ff7.b70d7190.jpg",
     "static/media/ff8.878508fd.jpg": "/duplex-val-thorens/static/media/ff8.878508fd.jpg",
+    "static/media/filter-coffee.8164dab3.png": "/duplex-val-thorens/static/media/filter-coffee.8164dab3.png",
     "static/media/fondue.ff1798ab.png": "/duplex-val-thorens/static/media/fondue.ff1798ab.png",
     "static/media/gf-plan.972a0623.jpg": "/duplex-val-thorens/static/media/gf-plan.972a0623.jpg",
     "static/media/gf.da14852f.jpg": "/duplex-val-thorens/static/media/gf.da14852f.jpg",
@@ -45,6 +47,7 @@
     "static/media/hair-dryer.ea8322da.png": "/duplex-val-thorens/static/media/hair-dryer.ea8322da.png",
     "static/media/home-bedroom-resized.66c02179.webp": "/duplex-val-thorens/static/media/home-bedroom-resized.66c02179.webp",
     "static/media/ironing.e68d2cda.png": "/duplex-val-thorens/static/media/ironing.e68d2cda.png",
+    "static/media/kettle.740b00d1.png": "/duplex-val-thorens/static/media/kettle.740b00d1.png",
     "static/media/living-room-resized.0eac6946.webp": "/duplex-val-thorens/static/media/living-room-resized.0eac6946.webp",
     "static/media/map1.345242f7.webp": "/duplex-val-thorens/static/media/map1.345242f7.webp",
     "static/media/map2.cddbeef7.webp": "/duplex-val-thorens/static/media/map2.cddbeef7.webp",
@@ -65,7 +68,7 @@
     "static/js/runtime-main.36f3b174.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.d1d154fa.chunk.js",
-    "static/css/main.a82d4be9.chunk.css",
-    "static/js/main.8835d107.chunk.js"
+    "static/css/main.bd04ecb3.chunk.css",
+    "static/js/main.a232f489.chunk.js"
   ]
 }

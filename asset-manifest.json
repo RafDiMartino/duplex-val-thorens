@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.d8aa3792.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.b9756e3e.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.b9756e3e.chunk.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.5530fab1.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.cb97e532.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.cb97e532.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1ef7266b.chunk.js.map": "/duplex-val-thorens/static/js/3.1ef7266b.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.d8aa3792.chunk.css.map": "/duplex-val-thorens/static/css/main.d8aa3792.chunk.css.map",
+    "static/css/main.5530fab1.chunk.css.map": "/duplex-val-thorens/static/css/main.5530fab1.chunk.css.map",
     "static/js/2.d1d154fa.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.d1d154fa.chunk.js.LICENSE.txt",
     "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
     "static/media/board-game.895c4f79.png": "/duplex-val-thorens/static/media/board-game.895c4f79.png",
@@ -68,7 +68,7 @@
     "static/js/runtime-main.36f3b174.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.d1d154fa.chunk.js",
-    "static/css/main.d8aa3792.chunk.css",
-    "static/js/main.b9756e3e.chunk.js"
+    "static/css/main.5530fab1.chunk.css",
+    "static/js/main.cb97e532.chunk.js"
   ]
 }

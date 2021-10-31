@@ -2,14 +2,16 @@
 export function ULGroundFloor() {
     return (
         <div className="ul-wrapper">
-            <ul className="ul-ground-floor">
-                <li>Large living/dining room with a big corner sofa, coffee table, stools, dinner table</li>
-                <li>Kitchen area</li>
-                <li>Balcony</li>
-                <li>Ski shoes closet</li>
-                <li>Extra wardrobe and storage space</li>
-                <li>Toilet</li>
-            </ul>
+            <div className="ul-container">
+                <ul className="ul-floor">
+                    <li>Large living/dining room with a big corner sofa, coffee table, stools, dinner table</li>
+                    <li>Kitchen area</li>
+                    <li>Balcony</li>
+                    <li>Ski shoes closet</li>
+                    <li>Extra wardrobe and storage space</li>
+                    <li>Toilet</li>
+                </ul>
+            </div>
         </div>
     )
 }
@@ -17,17 +19,15 @@ export function ULGroundFloor() {
 export function ULFirstFloor() {
     return (
         <div className="ul-wrapper">
-            <h3>5 bedrooms:</h3>
-            <ul className="ul-first-floor">
-                <li>3 double bedrooms with 160x200cm beds</li>
-                <li>1 double bedroom with a 140x190cm bed</li>
-                <li>1 bedroom with two 80x190cm bunk beds</li>
-            </ul>
-            <h3>2 bathrooms:</h3>
-            <ul className="ul-first-floor">
-                <li>1 bathroom with a bathtub and toilet</li>
-                <li>1 bathroom with a shower</li>
-            </ul>
+            <div className="ul-container">
+                <ul className="ul-floor">
+                    <li>3 double bedrooms with 160x200cm beds</li>
+                    <li>1 double bedroom with a 140x190cm bed</li>
+                    <li>1 bedroom with a bunk bed 80x190cm each</li>
+                    <li>1 bathroom with a bathtub and toilet</li>
+                    <li>1 bathroom with a shower</li>
+                </ul>
+            </div>
         </div>
     )
 }

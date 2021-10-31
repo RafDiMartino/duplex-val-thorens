@@ -1,9 +1,9 @@
 import "./floor-descriptions.scss"
 
-function FloorDescriptions({ title, ul, carousel }){
+function FloorDescriptions({ title, ul, carousel, className }){
 
     return (
-    <div>
+    <div className= {className}>
         <div className="floor">
             <div className="ground-floor-wrapper">  
                 <h1 className="h1-ground-floor">{title}</h1>

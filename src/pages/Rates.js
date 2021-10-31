@@ -10,7 +10,7 @@ function Rates() {
             <div className="img-container-rates"></div>
             <PageTitle 
                 h1 ="Rates 2021-2022"
-                h2 ="Weekly rates with an arrival on Saturday and 7 nights minimum stay"    
+                h2 ="Weekly rates with arrival on Saturday and 7 nights minimum stay"    
             />
             <RatesTable 
                 month="Start of Season"

@@ -16,20 +16,24 @@
 
 div .swiper-button-prev { 
     color: var(--dropdown); 
+    color: var(--navbar);
     font-weight: 600;
 }
 
 div .swiper-button-next {
     color: var(--dropdown);
+    color: var(--navbar);
     font-weight: 600;
 }
 
 .swiper-pagination .swiper-pagination-bullet-active {
     background: var(--dropdown);
+    background: var(--navbar);
 }
 
 .swiper-pagination .swiper-pagination-bullet {
     background: var(--dropdown);
+    background: var(--navbar);
     
 }
 
@@ -43,5 +47,22 @@ div .swiper-button-next {
         object-fit:cover;
         background-color: black;
         box-shadow: rgba(0, 0, 0, 0.884) 0px 10px 10px -10px;
+    }
+    .carousel-wrapper {
+        width: 60%;
+        margin: 0;
+    }
+    .swiper-slide img {
+        height: 20rem;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    .carousel-wrapper {
+        width: 65%;
+        margin: 0;
+    }
+    .swiper-slide img {
+        height: 19rem;
     }
 }

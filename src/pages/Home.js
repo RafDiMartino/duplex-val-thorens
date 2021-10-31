@@ -20,7 +20,7 @@ function Home() {
                 image={Background}
             />
             <Description 
-            className={"view-wrapper reverse"}
+            className={"view-wrapper home-reverse"}
                 text="It accommodates up to 10 people in a quiet, guarded and safe residence. Right in the heart of Val Thorens, the building is only 50 metres away from the sports & shopping centre."
                 image={HomeImage2}
             />

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.5530fab1.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.30a37b4a.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.30a37b4a.chunk.js.map",
-    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js",
-    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.8c0ae089.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.22e8f29e.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.22e8f29e.chunk.js.map",
+    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
+    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.587ce222.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
-    "static/js/2.100ea5bb.chunk.js": "/duplex-val-thorens/static/js/2.100ea5bb.chunk.js",
-    "static/js/2.100ea5bb.chunk.js.map": "/duplex-val-thorens/static/js/2.100ea5bb.chunk.js.map",
-    "static/js/3.1ef7266b.chunk.js": "/duplex-val-thorens/static/js/3.1ef7266b.chunk.js",
-    "static/js/3.1ef7266b.chunk.js.map": "/duplex-val-thorens/static/js/3.1ef7266b.chunk.js.map",
+    "static/js/2.8651bef3.chunk.js": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js",
+    "static/js/2.8651bef3.chunk.js.map": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.map",
+    "static/js/3.7a598e51.chunk.js": "/duplex-val-thorens/static/js/3.7a598e51.chunk.js",
+    "static/js/3.7a598e51.chunk.js.map": "/duplex-val-thorens/static/js/3.7a598e51.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.5530fab1.chunk.css.map": "/duplex-val-thorens/static/css/main.5530fab1.chunk.css.map",
-    "static/js/2.100ea5bb.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.100ea5bb.chunk.js.LICENSE.txt",
+    "static/css/main.8c0ae089.chunk.css.map": "/duplex-val-thorens/static/css/main.8c0ae089.chunk.css.map",
+    "static/js/2.8651bef3.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.LICENSE.txt",
     "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
     "static/media/board-game.895c4f79.png": "/duplex-val-thorens/static/media/board-game.895c4f79.png",
     "static/media/books.2b8e07f3.png": "/duplex-val-thorens/static/media/books.2b8e07f3.png",
@@ -65,10 +65,10 @@
     "static/media/xbox.fddc3978.png": "/duplex-val-thorens/static/media/xbox.fddc3978.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.36f3b174.js",
+    "static/js/runtime-main.587ce222.js",
     "static/css/2.7593ba40.chunk.css",
-    "static/js/2.100ea5bb.chunk.js",
-    "static/css/main.5530fab1.chunk.css",
-    "static/js/main.30a37b4a.chunk.js"
+    "static/js/2.8651bef3.chunk.js",
+    "static/css/main.8c0ae089.chunk.css",
+    "static/js/main.22e8f29e.chunk.js"
   ]
 }

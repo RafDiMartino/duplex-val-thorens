@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.8c0ae089.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.22e8f29e.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.22e8f29e.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.1e380416.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.1e380416.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.587ce222.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -15,8 +15,6 @@
     "static/css/main.8c0ae089.chunk.css.map": "/duplex-val-thorens/static/css/main.8c0ae089.chunk.css.map",
     "static/js/2.8651bef3.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.LICENSE.txt",
     "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
-    "static/media/board-game.895c4f79.png": "/duplex-val-thorens/static/media/board-game.895c4f79.png",
-    "static/media/books.2b8e07f3.png": "/duplex-val-thorens/static/media/books.2b8e07f3.png",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
     "static/media/coffee-machine.7527b31e.png": "/duplex-val-thorens/static/media/coffee-machine.7527b31e.png",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
@@ -69,6 +67,6 @@
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.8651bef3.chunk.js",
     "static/css/main.8c0ae089.chunk.css",
-    "static/js/main.22e8f29e.chunk.js"
+    "static/js/main.1e380416.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.5530fab1.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.2a76ae20.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.2a76ae20.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.30a37b4a.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.30a37b4a.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.36f3b174.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -29,7 +29,7 @@
     "static/media/ff3.92f7a741.jpg": "/duplex-val-thorens/static/media/ff3.92f7a741.jpg",
     "static/media/ff4.82598a17.jpg": "/duplex-val-thorens/static/media/ff4.82598a17.jpg",
     "static/media/ff5.79200521.jpg": "/duplex-val-thorens/static/media/ff5.79200521.jpg",
-    "static/media/ff6.d6d7c35d.jpg": "/duplex-val-thorens/static/media/ff6.d6d7c35d.jpg",
+    "static/media/ff6.05a21972.jpg": "/duplex-val-thorens/static/media/ff6.05a21972.jpg",
     "static/media/ff7.b70d7190.jpg": "/duplex-val-thorens/static/media/ff7.b70d7190.jpg",
     "static/media/ff8.878508fd.jpg": "/duplex-val-thorens/static/media/ff8.878508fd.jpg",
     "static/media/filter-coffee.8164dab3.png": "/duplex-val-thorens/static/media/filter-coffee.8164dab3.png",
@@ -69,6 +69,6 @@
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.100ea5bb.chunk.js",
     "static/css/main.5530fab1.chunk.css",
-    "static/js/main.2a76ae20.chunk.js"
+    "static/js/main.30a37b4a.chunk.js"
   ]
 }

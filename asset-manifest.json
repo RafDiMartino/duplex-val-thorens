@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.b9426844.chunk.css",
+    "main.css": "/duplex-val-thorens/static/css/main.958d40eb.chunk.css",
     "main.js": "/duplex-val-thorens/static/js/main.7e926997.chunk.js",
     "main.js.map": "/duplex-val-thorens/static/js/main.7e926997.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
@@ -12,7 +12,7 @@
     "static/js/3.7a598e51.chunk.js.map": "/duplex-val-thorens/static/js/3.7a598e51.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.b9426844.chunk.css.map": "/duplex-val-thorens/static/css/main.b9426844.chunk.css.map",
+    "static/css/main.958d40eb.chunk.css.map": "/duplex-val-thorens/static/css/main.958d40eb.chunk.css.map",
     "static/js/2.8651bef3.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.LICENSE.txt",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
@@ -50,7 +50,7 @@
     "static/js/runtime-main.587ce222.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.8651bef3.chunk.js",
-    "static/css/main.b9426844.chunk.css",
+    "static/css/main.958d40eb.chunk.css",
     "static/js/main.7e926997.chunk.js"
   ]
 }

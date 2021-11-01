@@ -1,12 +1,12 @@
 import React from 'react'
 import "../styles/contacts.scss"
-import PageTitle from '../components/pages-title/PageTitle'
+import Header from '../components/header/Header'
 
 function Contacts() {
     return (
         <div>
             <div className="img-container-contacts"></div>
-            <PageTitle 
+            <Header 
                 h1="Contact Us"
                 h2="Send us a message"
             />

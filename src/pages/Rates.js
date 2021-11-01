@@ -1,6 +1,6 @@
 import React from 'react'
 import "../styles/rates.scss"
-import PageTitle from '../components/pages-title/PageTitle'
+import Header from '../components/header/Header'
 import RatesTable from '../components/rates-table/RatesTable'
 
 function Rates() {
@@ -8,7 +8,7 @@ function Rates() {
 
         <div>
             <div className="img-container-rates"></div>
-            <PageTitle 
+            <Header
                 h1 ="Rates 2021-2022"
                 h2 ="Weekly rates with arrival on Saturday and 7 nights minimum stay"    
             />

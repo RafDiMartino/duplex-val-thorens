@@ -1,7 +1,7 @@
 import React from 'react'
-import "./description.scss"
+import "./home-description.scss"
 
-function Description({ text, image, className }) {
+function HomeDescription({ text, image, className }) {
     return (
         <div>
             <div className="description">
@@ -18,4 +18,4 @@ function Description({ text, image, className }) {
     )
 }
 
-export default Description
+export default HomeDescription

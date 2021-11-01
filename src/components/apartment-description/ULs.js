@@ -21,9 +21,9 @@ export function ULFirstFloor() {
         <div className="ul-wrapper">
             <div className="ul-container">
                 <ul className="ul-floor">
-                    <li>3 double bedrooms with 160x200cm beds</li>
-                    <li>1 double bedroom with a 140x190cm bed</li>
-                    <li>1 bedroom with a bunk bed 80x190cm each</li>
+                    <li>3 double bedrooms with 160x200cm King size beds</li>
+                    <li>1 double bedroom with 140x190cm Double bed</li>
+                    <li>1 cabin with 2 80x190cm single beds (bunk bed)</li>
                     <li>1 bathroom with a bathtub and toilet</li>
                     <li>1 bathroom with a shower</li>
                 </ul>

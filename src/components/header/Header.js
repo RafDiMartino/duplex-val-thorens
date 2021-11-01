@@ -1,7 +1,7 @@
 import React from 'react'
-import "./page-title.scss"
+import "./header.scss"
 
-function PageTitle({ h1, h2 }) {
+function Header({ h1, h2 }) {
     return (
         <div className="page-title-wrapper">
             <h1 className="page-title">{h1}</h1>
@@ -10,4 +10,4 @@ function PageTitle({ h1, h2 }) {
     )
 }
 
-export default PageTitle
+export default Header

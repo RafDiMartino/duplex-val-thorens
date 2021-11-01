@@ -1,18 +1,20 @@
 import React from 'react'
 import "../styles/apartment.scss"
-import PageTitle from '../components/pages-title/PageTitle'
+import Header from '../components/header/Header'
 import Carousel from '../components/carousel/Carousel'
 import { imgDataGF, imgDataFF, iconEquipment, iconEntertainment } from '../components/data/imgData'
 import FloorDescriptions from '../components/apartment-description/FloorDescriptions'
 import { ULGroundFloor, ULFirstFloor } from '../components/apartment-description/ULs'
 import SimpleReactLightbox from "simple-react-lightbox"
+import EquipmentEntertainment from '../components/equipment-entertainment/EquipmentEntertainment'
+
 
 function Apartment() {
 
     return (
         <div>
             <div className="img-container-apartment"></div>
-            <PageTitle 
+            <Header
                 h1="The Apartment"
                 h2="Details & Photos"
             />
@@ -33,30 +35,14 @@ function Apartment() {
                 />
             </SimpleReactLightbox>
             <div className="icons-container">
-                <div className="icons">
-                    <h1 className="h1-equipment">Equipment</h1>
-                    <hr className="hr-floors" />
-                    <div className="icons-wrapper">
-                        {iconEquipment && iconEquipment.map(item => (
-                            <div className="test">
-                                <img className="icon" src={item.url} key={item.id} alt="Equipment icons" />
-                                <p className="icon-description">{item.title}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-                <div className="icons">
-                    <h1 className="h1-equipment">Entertainment</h1>
-                    <hr className="hr-floors" />
-                    <div className="icons-wrapper">
-                        {iconEntertainment && iconEntertainment.map(item => (
-                            <div className="test">
-                                <img className="icon" src={item.url} key={item.id} alt="Entertainment icons" />
-                                <p className="icon-description">{item.title}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
+                <EquipmentEntertainment
+                   title="Equipment"
+                   data={iconEquipment} 
+                />
+                <EquipmentEntertainment
+                   title="Entertainment"
+                   data={iconEntertainment} 
+                />
             </div>
             <div className="icons">
                 <h1 className="h1-equipment">Suitability</h1>

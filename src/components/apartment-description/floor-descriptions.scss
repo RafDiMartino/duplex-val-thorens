@@ -6,7 +6,7 @@
     align-items: center;
     padding: 3rem 0 3rem 0rem;
 
-    .ground-floor-wrapper{
+    .floor-wrapper{
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -22,7 +22,7 @@
             margin: 1rem;
         }
 
-        .h1-ground-floor{
+        .h1-floor{
             width: 100%;
             display: flex;
             font-size: 1.5rem;
@@ -34,12 +34,8 @@
 
 }
 
-.ul-wrapper {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+.ul-wrapper { 
+    padding: 0 1rem;
 }
 
 .ul-floor{
@@ -56,7 +52,6 @@
         list-style:disc;
         color: var(--mainText);
         max-width: 350px;
-        // list-style-position: inside;
     }
 }
 
@@ -81,8 +76,8 @@
 @media screen and (min-width: 768px){
     .floor {
         flex-direction: row;
-        .ground-floor-wrapper{
-            .h1-ground-floor{
+        .floor-wrapper{
+            .h1-floor{
                 font-size: 1.8rem;
             }
         }

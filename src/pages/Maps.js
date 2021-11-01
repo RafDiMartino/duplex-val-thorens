@@ -1,18 +1,15 @@
 // import React, {useState} from 'react'
 import "../styles/maps.scss"
-import PageTitle from '../components/pages-title/PageTitle'
+import Header from '../components/header/Header'
 import Map1 from "../assets/map1.webp"
 import Map2 from "../assets/map2.webp"
-// import Modal from "../components/modal/Modal"
 
 function Maps() {
-
-    // const [selectedImg, setSelectedImg] = useState(null)
 
     return (
         <div className="maps">
             <div className="img-container-maps"></div>
-            <PageTitle 
+            <Header
                 h1="Maps"
                 h2="Val Thorens"
             />

@@ -48,14 +48,15 @@
 
     .icon-description {
         display: none;
-        font-weight: 600;
-        color: var(--mainText);
     }
 
-    .icon:hover + .icon-description {
+    .icon-wrapper:hover .icon-description {
         display: block;
         text-align: center;
         width: 134px;  
+        font-weight: 600;
+        color: var(--mainText);
+        
     }
 
     .suitability-wrapper {

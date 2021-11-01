@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.240cc48d.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.f9ed3761.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.f9ed3761.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.7e926997.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.7e926997.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.587ce222.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -14,11 +14,8 @@
     "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
     "static/css/main.240cc48d.chunk.css.map": "/duplex-val-thorens/static/css/main.240cc48d.chunk.css.map",
     "static/js/2.8651bef3.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.LICENSE.txt",
-    "static/media/baby-crib.f2764ca2.png": "/duplex-val-thorens/static/media/baby-crib.f2764ca2.png",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
-    "static/media/coffee-machine.7527b31e.png": "/duplex-val-thorens/static/media/coffee-machine.7527b31e.png",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
-    "static/media/dishwasher.e7973e4e.png": "/duplex-val-thorens/static/media/dishwasher.e7973e4e.png",
     "static/media/ff-plan.947304e4.jpg": "/duplex-val-thorens/static/media/ff-plan.947304e4.jpg",
     "static/media/ff.48b7fd15.jpg": "/duplex-val-thorens/static/media/ff.48b7fd15.jpg",
     "static/media/ff1.c99a8154.jpg": "/duplex-val-thorens/static/media/ff1.c99a8154.jpg",
@@ -29,8 +26,6 @@
     "static/media/ff6.05a21972.jpg": "/duplex-val-thorens/static/media/ff6.05a21972.jpg",
     "static/media/ff7.b70d7190.jpg": "/duplex-val-thorens/static/media/ff7.b70d7190.jpg",
     "static/media/ff8.878508fd.jpg": "/duplex-val-thorens/static/media/ff8.878508fd.jpg",
-    "static/media/filter-coffee.8164dab3.png": "/duplex-val-thorens/static/media/filter-coffee.8164dab3.png",
-    "static/media/fondue.ff1798ab.png": "/duplex-val-thorens/static/media/fondue.ff1798ab.png",
     "static/media/gf-plan.972a0623.jpg": "/duplex-val-thorens/static/media/gf-plan.972a0623.jpg",
     "static/media/gf.bfd343ef.jpg": "/duplex-val-thorens/static/media/gf.bfd343ef.jpg",
     "static/media/gf1.0923275e.jpg": "/duplex-val-thorens/static/media/gf1.0923275e.jpg",
@@ -41,28 +36,21 @@
     "static/media/gf6.71eb0124.jpg": "/duplex-val-thorens/static/media/gf6.71eb0124.jpg",
     "static/media/gf7.aded535a.jpg": "/duplex-val-thorens/static/media/gf7.aded535a.jpg",
     "static/media/gf8.da14852f.jpg": "/duplex-val-thorens/static/media/gf8.da14852f.jpg",
-    "static/media/hair-dryer.ea8322da.png": "/duplex-val-thorens/static/media/hair-dryer.ea8322da.png",
     "static/media/home-bedroom-resized.66c02179.webp": "/duplex-val-thorens/static/media/home-bedroom-resized.66c02179.webp",
-    "static/media/ironing.e68d2cda.png": "/duplex-val-thorens/static/media/ironing.e68d2cda.png",
-    "static/media/kettle.740b00d1.png": "/duplex-val-thorens/static/media/kettle.740b00d1.png",
     "static/media/living-room-resized.0eac6946.webp": "/duplex-val-thorens/static/media/living-room-resized.0eac6946.webp",
     "static/media/map1.345242f7.webp": "/duplex-val-thorens/static/media/map1.345242f7.webp",
     "static/media/map2.cddbeef7.webp": "/duplex-val-thorens/static/media/map2.cddbeef7.webp",
     "static/media/maps.scss": "/duplex-val-thorens/static/media/mapPage3.89fe8f55.webp",
-    "static/media/microwave.c98073d3.png": "/duplex-val-thorens/static/media/microwave.c98073d3.png",
-    "static/media/raclette.c6707e96.png": "/duplex-val-thorens/static/media/raclette.c6707e96.png",
+    "static/media/raclette.7c9afd4b.png": "/duplex-val-thorens/static/media/raclette.7c9afd4b.png",
     "static/media/rates.scss": "/duplex-val-thorens/static/media/ratesPage.70e22cf6.webp",
-    "static/media/toaster.f1bce962.png": "/duplex-val-thorens/static/media/toaster.f1bce962.png",
-    "static/media/vacuum.1033c305.png": "/duplex-val-thorens/static/media/vacuum.1033c305.png",
     "static/media/home.scss": "/duplex-val-thorens/static/media/val-thores3.9a8a9605.webp",
-    "static/media/view-resized.92df0589.webp": "/duplex-val-thorens/static/media/view-resized.92df0589.webp",
-    "static/media/washing-machine.af828b4d.png": "/duplex-val-thorens/static/media/washing-machine.af828b4d.png"
+    "static/media/view-resized.92df0589.webp": "/duplex-val-thorens/static/media/view-resized.92df0589.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.587ce222.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.8651bef3.chunk.js",
     "static/css/main.240cc48d.chunk.css",
-    "static/js/main.f9ed3761.chunk.js"
+    "static/js/main.7e926997.chunk.js"
   ]
 }

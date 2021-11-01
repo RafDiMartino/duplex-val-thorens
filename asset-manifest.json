@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/duplex-val-thorens/static/css/main.8c0ae089.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.1e380416.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.1e380416.chunk.js.map",
+    "main.js": "/duplex-val-thorens/static/js/main.f9ed3761.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.f9ed3761.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.587ce222.js.map",
     "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
@@ -19,7 +19,6 @@
     "static/media/coffee-machine.7527b31e.png": "/duplex-val-thorens/static/media/coffee-machine.7527b31e.png",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
     "static/media/dishwasher.e7973e4e.png": "/duplex-val-thorens/static/media/dishwasher.e7973e4e.png",
-    "static/media/dvd-player.704011a4.png": "/duplex-val-thorens/static/media/dvd-player.704011a4.png",
     "static/media/ff-plan.947304e4.jpg": "/duplex-val-thorens/static/media/ff-plan.947304e4.jpg",
     "static/media/ff.48b7fd15.jpg": "/duplex-val-thorens/static/media/ff.48b7fd15.jpg",
     "static/media/ff1.c99a8154.jpg": "/duplex-val-thorens/static/media/ff1.c99a8154.jpg",
@@ -54,19 +53,16 @@
     "static/media/raclette.c6707e96.png": "/duplex-val-thorens/static/media/raclette.c6707e96.png",
     "static/media/rates.scss": "/duplex-val-thorens/static/media/ratesPage.70e22cf6.webp",
     "static/media/toaster.f1bce962.png": "/duplex-val-thorens/static/media/toaster.f1bce962.png",
-    "static/media/tv-monitor.df9f88f9.png": "/duplex-val-thorens/static/media/tv-monitor.df9f88f9.png",
     "static/media/vacuum.1033c305.png": "/duplex-val-thorens/static/media/vacuum.1033c305.png",
     "static/media/home.scss": "/duplex-val-thorens/static/media/val-thores3.9a8a9605.webp",
     "static/media/view-resized.92df0589.webp": "/duplex-val-thorens/static/media/view-resized.92df0589.webp",
-    "static/media/washing-machine.af828b4d.png": "/duplex-val-thorens/static/media/washing-machine.af828b4d.png",
-    "static/media/wifi.aaaf7738.png": "/duplex-val-thorens/static/media/wifi.aaaf7738.png",
-    "static/media/xbox.fddc3978.png": "/duplex-val-thorens/static/media/xbox.fddc3978.png"
+    "static/media/washing-machine.af828b4d.png": "/duplex-val-thorens/static/media/washing-machine.af828b4d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.587ce222.js",
     "static/css/2.7593ba40.chunk.css",
     "static/js/2.8651bef3.chunk.js",
     "static/css/main.8c0ae089.chunk.css",
-    "static/js/main.1e380416.chunk.js"
+    "static/js/main.f9ed3761.chunk.js"
   ]
 }

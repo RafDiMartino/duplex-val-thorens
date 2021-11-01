@@ -49,6 +49,7 @@
     .icon-description {
         display: none;
         font-weight: 600;
+        color: var(--mainText);
     }
 
     .icon:hover + .icon-description {

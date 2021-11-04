@@ -1,0 +1,26 @@
+{
+    "navbar": {
+        "home": "Acceuil",
+        "apartment": "L'Appartement",
+        "rates": "Tarifs",
+        "maps": "Cartes",
+        "contacts": "Contacts"
+    },
+    "headers": {
+        "page_title_home": "Bienvenue",
+        "title_home": "Nous sommes ravis de vous offrir la possibilité de louer notre duplex de 80 mètres carrés, situé au dernier étage de la résidence “Les Lauzieres”.",
+        "page_title_apartment": "L'Appartement",
+        "title_apartment": "Détails & Photos",
+        "page_title_rates": "Tarifs 2021-2022",
+        "title_rates": "Tarifs à la semaine avec arrivée le samedi et séjour minimum de 7 nuits",
+        "page_title_maps": "Cartes",
+        "title_maps": "Val Thorens",
+        "page_title_contacts": "Contactez-nous",
+        "title_contacts": "Envoyez-nous un message."
+    },
+    "home": {
+        "first_paragraph": "Cet appartement offre l'une des vues les plus incroyables sur les montagnes, et son emplacement fantastique vous permet de skier jusqu'à l'entrée du bâtiment.",
+        "second_paragraph": "Il peut accueillir jusqu'à 10 personnes dans une résidence calme, surveillée et sûre. En plein cœur de Val Thorens, le bâtiment se trouve à seulement 50 mètres du centre sportif et commercial.",
+        "third_paragraph": "Tous les lits seront fraîchement préparés pour vous accueillir. Des serviettes de douche / bain propres pour chacun d'entre vous sont fournies avec un ensemble de serviettes de cuisine."
+    }
+}

@@ -7,16 +7,18 @@ import FloorDescriptions from '../components/apartment-description/FloorDescript
 import { ULGroundFloor, ULFirstFloor } from '../components/apartment-description/ULs'
 import SimpleReactLightbox from "simple-react-lightbox"
 import EquipmentEntertainment from '../components/equipment-entertainment/EquipmentEntertainment'
-
+import { useTranslation} from 'react-i18next'
 
 function Apartment() {
+
+    const { t } = useTranslation()
 
     return (
         <div>
             <div className="img-container-apartment"></div>
             <Header
-                h1="The Apartment"
-                h2="Details & Photos"
+                h1={t("headers.page_title_apartment")}
+                h2={t("headers.title_apartment")}
             />
             <SimpleReactLightbox>
                 <FloorDescriptions

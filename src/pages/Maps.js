@@ -3,15 +3,18 @@ import "../styles/maps.scss"
 import Header from '../components/header/Header'
 import Map1 from "../assets/map1.webp"
 import Map2 from "../assets/map2.webp"
+import { useTranslation} from 'react-i18next'
 
 function Maps() {
+
+    const { t } = useTranslation()
 
     return (
         <div className="maps">
             <div className="img-container-maps"></div>
             <Header
-                h1="Maps"
-                h2="Val Thorens"
+                h1={t("headers.page_title_maps")}
+                h2={t("headers.title_maps")}
             />
             <h3 className="location-on-map">The apartment building is number 12 on the map, under “QUARTIER SOLEIL – SOLEIL DISTRICT”.</h3>
             <hr className="hr-maps" />

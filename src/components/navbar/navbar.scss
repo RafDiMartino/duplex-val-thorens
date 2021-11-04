@@ -14,7 +14,7 @@ nav {
 
 .logo {
     text-align: left;
-    width: 60%;
+    width: 50%;
     font-size: 1.2rem;
     
     a {
@@ -22,7 +22,6 @@ nav {
 
         &:hover {
             color: var(--dropdown);
-            //border-bottom: 1px solid var(--dropdown) ;
         }
     }
 }
@@ -97,17 +96,22 @@ nav {
             opacity: 0;
         }
     }
+
+    .translation-wrapper{
+        opacity: 0;
+    }
 }
 
 .nav-links {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     position: absolute;
     background-color: var(--navFontColor);
     top: 5rem;
     width: 100%;
-    height: calc(100vh - 10rem);
+    height: calc(100vh - 5.5rem);
     transition: all .5s ease;
     box-shadow: 0px 2px 4px var(--mainText);
 
@@ -131,9 +135,22 @@ nav {
             opacity: 1;
             transition: opacity .5s ease 0.1s;
             border-bottom: 1.5px solid var(--mainText);
-            &:last-child {
-                border-bottom: 0px solid var(--mainText);
-            }
+            // &:last-child {
+            //     border-bottom: 0px solid var(--mainText);
+            // }
+        }
+    }
+    .translation-wrapper{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 2rem;
+        width: 50px;
+        opacity: 1;
+        transition: opacity .5s ease 0.1s;
+        
+        .translation{
+            background-color: none;
+            border: none;
         }
     }
 }
@@ -145,7 +162,8 @@ nav {
     }
 
     .logo {
-        font-size: 1.4rem;
+        font-size: 1.25rem;
+        width: 30%;
     }
 
     .menu-icon {
@@ -162,6 +180,8 @@ nav {
 
     .links {
         display: flex;
+        justify-content: center;
+        align-items: center;
         width: 80%;
 
         ul {
@@ -186,6 +206,18 @@ nav {
             }
         }
     }
+
+    .translation-wrapper{
+        display: flex;
+        padding-left: 1.5rem;
+        
+        .translation{
+            background-color: var(--navbar);
+            margin-left: 1rem;
+            border: none;
+            cursor: pointer;
+        }
+    }
 }
 
 
@@ -193,6 +225,10 @@ nav {
 
     nav {
         padding: 1rem 2rem;
+    }
+
+    .logo{
+        font-size: 1.3rem;
     }
 
     .links ul {

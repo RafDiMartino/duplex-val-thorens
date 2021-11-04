@@ -2,15 +2,19 @@ import React from 'react'
 import "../styles/rates.scss"
 import Header from '../components/header/Header'
 import RatesTable from '../components/rates-table/RatesTable'
-
+import { useTranslation} from 'react-i18next'
+    
 function Rates() {
+
+    const { t } = useTranslation()
+
     return (
 
         <div>
             <div className="img-container-rates"></div>
             <Header
-                h1 ="Rates 2021-2022"
-                h2 ="Weekly rates with arrival on Saturday and 7 nights minimum stay"    
+                h1={t("headers.page_title_rates")}
+                h2={t("headers.title_rates")}
             />
             <RatesTable 
                 month="Start of Season"

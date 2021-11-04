@@ -1,0 +1,26 @@
+{
+    "navbar": {
+        "home": "Home",
+        "apartment": "The Apartment",
+        "rates": "Rates",
+        "maps": "Maps",
+        "contacts": "Contacts"
+    },
+    "headers": {
+        "page_title_home": "Bienvenue",
+        "title_home": "Nous sommes ravis de vous offrir la possibilité de louer notre duplex de 80 mètres carrés, situé au dernier étage de la résidence “Les Lauzieres”.",
+        "page_title_apartment": "The Apartment",
+        "title_apartment": "Details & Photos",
+        "page_title_rates": "Rates 2021-2022",
+        "title_rates": "Weekly rates with arrival on Saturday and 7 nights minimum stay",
+        "page_title_maps": "Maps",
+        "title_maps": "Val Thorens",
+        "page_title_contacts": "Contact Us",
+        "title_contacts": "Send us a message"
+    },
+    "home": {
+        "first_paragraph": "This apartment offers one of the most amazing views of the mountains, and its fantastic location allows you to ski right up to the building entrance.",
+        "second_paragraph": "It accommodates up to 10 people in a quiet, guarded and safe residence. Right in the heart of Val Thorens, the building is only 50 metres away from the sports & shopping centre.",
+        "third_paragraph": "All beds will be freshly made ready to welcome you. Clean shower/bath towels for each of you are provided along with a kitchen towel set."
+    }
+}

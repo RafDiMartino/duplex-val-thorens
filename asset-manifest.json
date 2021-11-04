@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.958d40eb.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.7e926997.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.7e926997.chunk.js.map",
-    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.587ce222.js",
-    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.587ce222.js.map",
-    "static/css/2.7593ba40.chunk.css": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css",
-    "static/js/2.8651bef3.chunk.js": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js",
-    "static/js/2.8651bef3.chunk.js.map": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.map",
-    "static/js/3.7a598e51.chunk.js": "/duplex-val-thorens/static/js/3.7a598e51.chunk.js",
-    "static/js/3.7a598e51.chunk.js.map": "/duplex-val-thorens/static/js/3.7a598e51.chunk.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.f7bd4398.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.b133b8c9.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.b133b8c9.chunk.js.map",
+    "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.70d0808a.js",
+    "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.70d0808a.js.map",
+    "static/css/2.18a948cb.chunk.css": "/duplex-val-thorens/static/css/2.18a948cb.chunk.css",
+    "static/js/2.850a3b2d.chunk.js": "/duplex-val-thorens/static/js/2.850a3b2d.chunk.js",
+    "static/js/2.850a3b2d.chunk.js.map": "/duplex-val-thorens/static/js/2.850a3b2d.chunk.js.map",
+    "static/js/3.17b9c49c.chunk.js": "/duplex-val-thorens/static/js/3.17b9c49c.chunk.js",
+    "static/js/3.17b9c49c.chunk.js.map": "/duplex-val-thorens/static/js/3.17b9c49c.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
-    "static/css/2.7593ba40.chunk.css.map": "/duplex-val-thorens/static/css/2.7593ba40.chunk.css.map",
-    "static/css/main.958d40eb.chunk.css.map": "/duplex-val-thorens/static/css/main.958d40eb.chunk.css.map",
-    "static/js/2.8651bef3.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.8651bef3.chunk.js.LICENSE.txt",
+    "static/css/2.18a948cb.chunk.css.map": "/duplex-val-thorens/static/css/2.18a948cb.chunk.css.map",
+    "static/css/main.f7bd4398.chunk.css.map": "/duplex-val-thorens/static/css/main.f7bd4398.chunk.css.map",
+    "static/js/2.850a3b2d.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.850a3b2d.chunk.js.LICENSE.txt",
+    "static/media/flag-icons.min.css": "/duplex-val-thorens/static/media/zw.cd37458b.svg",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
     "static/media/contacts.scss": "/duplex-val-thorens/static/media/contactPage.36d17af3.webp",
     "static/media/ff-plan.947304e4.jpg": "/duplex-val-thorens/static/media/ff-plan.947304e4.jpg",
@@ -26,6 +27,7 @@
     "static/media/ff6.05a21972.jpg": "/duplex-val-thorens/static/media/ff6.05a21972.jpg",
     "static/media/ff7.b70d7190.jpg": "/duplex-val-thorens/static/media/ff7.b70d7190.jpg",
     "static/media/ff8.878508fd.jpg": "/duplex-val-thorens/static/media/ff8.878508fd.jpg",
+    "static/media/getFetch.cjs": "/duplex-val-thorens/static/media/getFetch.582d29c4.cjs",
     "static/media/gf-plan.972a0623.jpg": "/duplex-val-thorens/static/media/gf-plan.972a0623.jpg",
     "static/media/gf.bfd343ef.jpg": "/duplex-val-thorens/static/media/gf.bfd343ef.jpg",
     "static/media/gf1.0923275e.jpg": "/duplex-val-thorens/static/media/gf1.0923275e.jpg",
@@ -47,10 +49,10 @@
     "static/media/view-resized.92df0589.webp": "/duplex-val-thorens/static/media/view-resized.92df0589.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.587ce222.js",
-    "static/css/2.7593ba40.chunk.css",
-    "static/js/2.8651bef3.chunk.js",
-    "static/css/main.958d40eb.chunk.css",
-    "static/js/main.7e926997.chunk.js"
+    "static/js/runtime-main.70d0808a.js",
+    "static/css/2.18a948cb.chunk.css",
+    "static/js/2.850a3b2d.chunk.js",
+    "static/css/main.f7bd4398.chunk.css",
+    "static/js/main.b133b8c9.chunk.js"
   ]
 }

@@ -2,12 +2,13 @@ import React from 'react'
 import "../styles/apartment.scss"
 import Header from '../components/header/Header'
 import Carousel from '../components/carousel/Carousel'
-import { imgDataGF, imgDataFF, iconEquipment, iconEntertainment } from '../components/data/imgData'
+import { imgDataGF, imgDataFF} from '../components/data/imgData'
 import FloorDescriptions from '../components/apartment-description/FloorDescriptions'
 import { ULGroundFloor, ULFirstFloor } from '../components/apartment-description/ULs'
 import SimpleReactLightbox from "simple-react-lightbox"
-import EquipmentEntertainment from '../components/equipment-entertainment/EquipmentEntertainment'
+import { Equipment, Entertainment } from '../components/equipment-entertainment/EquipmentEntertainment'
 import { useTranslation} from 'react-i18next'
+
 
 function Apartment() {
 
@@ -23,7 +24,7 @@ function Apartment() {
             <SimpleReactLightbox>
                 <FloorDescriptions
                     className={"floor-container"}
-                    title="Ground Floor" 
+                    title={t("apartment.ground_floor.groundFloor")} 
                     ul={<ULGroundFloor />}
                     carousel={<Carousel data={imgDataGF}/>}
                 />
@@ -31,29 +32,27 @@ function Apartment() {
             <SimpleReactLightbox>
                 <FloorDescriptions
                     className={"floor-container reverse"}
-                    title="First Floor" 
+                    title={t("apartment.first_floor.firstFloor")} 
                     ul={<ULFirstFloor />}
                     carousel={<Carousel data={imgDataFF}/>}
                 />
             </SimpleReactLightbox>
             <div className="icons-container">
-                <EquipmentEntertainment
-                   title="Equipment"
-                   data={iconEquipment} 
+                <Equipment
+                   title={t("apartment.equipment.equipmentTitle")}
                 />
-                <EquipmentEntertainment
-                   title="Entertainment"
-                   data={iconEntertainment} 
+                <Entertainment
+                   title={t("apartment.entertainment.entertainmentTitle")}
                 />
             </div>
             <div className="icons">
-                <h1 className="h1-equipment">Suitability</h1>
+                <h1 className="h1-equipment">{t("apartment.suitability.suitabilityTitle")}</h1>
                 <hr className="hr-floors" />
                 <div className="suitability-wrapper">
-                    <p className="suitability">Children welcome</p>
-                    <p className="suitability">This is a non-smoking apartment, but smoking is permitted on the balcony</p>
-                    <p className="suitability">Pets not allowed</p>
-                    <p className="suitability">Wheelchair inaccessible</p>
+                    <p className="suitability">{t("apartment.suitability.children")}</p>
+                    <p className="suitability">{t("apartment.suitability.smoking")}</p>
+                    <p className="suitability">{t("apartment.suitability.pets")}</p>
+                    <p className="suitability">{t("apartment.suitability.wheelchair")}</p>
                 </div>
             </div>
         </div>

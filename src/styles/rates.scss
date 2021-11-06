@@ -7,3 +7,35 @@
     height: 25rem; 
 }
 
+.short-stay-wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    .h1-short-stay {
+        width: 100%;
+        display: flex;
+        font-size: 1.4rem;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: var(--mainText);
+        margin-top: 1rem;
+    }
+
+    .hr-rates{
+        width: 100px;
+        height: 3px;
+        background-color: var(--dropdown);
+        border: none;
+        margin: 1rem;
+    }
+
+    .short-stay {
+        font-size: 1.1rem;
+        color: var(--mainText);
+        padding: 1rem 2rem 4rem;
+        text-align: center;
+    }
+}

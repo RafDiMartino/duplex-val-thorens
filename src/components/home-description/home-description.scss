@@ -6,8 +6,8 @@
     
         .main-text {
             font-size: 1.1rem;
-            margin: 3rem 3rem;
-            text-align: left;
+            margin: 3rem 2rem;
+            text-align: center;
             font-weight: 400;
             color: var(--mainText);
         }
@@ -42,7 +42,7 @@
         .main-text {
             width: 100%;
             margin: 0rem 0rem;
-            padding: 2rem 5rem;
+            padding: 2rem 1rem;
             text-align: center;
             font-size: 1.2rem;
             font-weight: 400;
@@ -57,4 +57,15 @@
     .home-reverse {
         flex-direction: row-reverse;
     }
+}
+
+@media screen and (min-width: 1440px) {
+
+    .view-wrapper {
+
+        .main-text {
+            padding: 2rem 4rem;
+        }
+    }
+
 }

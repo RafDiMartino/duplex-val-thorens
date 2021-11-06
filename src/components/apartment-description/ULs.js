@@ -1,15 +1,19 @@
+import { useTranslation} from 'react-i18next'
+
 
 export function ULGroundFloor() {
+
+    const { t } = useTranslation()
+
     return (
         <div className="ul-wrapper">
             <div className="ul-container">
                 <ul className="ul-floor">
-                    <li>Large living/dining room with a big corner sofa, coffee table, stools, dinner table</li>
-                    <li>Kitchen area</li>
-                    <li>Balcony</li>
-                    <li>Ski shoes closet</li>
-                    <li>Extra wardrobe and storage space</li>
-                    <li>Toilet</li>
+                    <li>{t("apartment.ground_floor.first_li")}</li>
+                    <li>{t("apartment.ground_floor.second_li")}</li>
+                    <li>{t("apartment.ground_floor.third_li")}</li>
+                    <li>{t("apartment.ground_floor.fourth_li")}</li>
+                    <li>{t("apartment.ground_floor.fifth_li")}</li>
                 </ul>
             </div>
         </div>
@@ -17,15 +21,19 @@ export function ULGroundFloor() {
 }
 
 export function ULFirstFloor() {
+
+    const { t } = useTranslation()
+
     return (
         <div className="ul-wrapper">
             <div className="ul-container">
                 <ul className="ul-floor">
-                    <li>3 double bedrooms with 160x200cm King size beds</li>
-                    <li>1 double bedroom with 140x190cm Double bed</li>
-                    <li>1 cabin with 2 80x190cm single beds (bunk bed)</li>
-                    <li>1 bathroom with a bathtub and toilet</li>
-                    <li>1 bathroom with a shower</li>
+                    <li>{t("apartment.first_floor.first_li")}</li>
+                    <li>{t("apartment.first_floor.second_li")}</li>
+                    <li>{t("apartment.first_floor.third_li")}</li>
+                    <li>{t("apartment.first_floor.fourth_li")}</li>
+                    <li>{t("apartment.first_floor.fifth_li")}</li>
+                    <li>{t("apartment.first_floor.sixth_li")}</li>
                 </ul>
             </div>
         </div>

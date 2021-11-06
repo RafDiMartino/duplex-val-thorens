@@ -16,7 +16,7 @@ function Maps() {
                 h1={t("headers.page_title_maps")}
                 h2={t("headers.title_maps")}
             />
-            <h3 className="location-on-map">The apartment building is number 12 on the map, under “QUARTIER SOLEIL – SOLEIL DISTRICT”.</h3>
+            <h3 className="location-on-map">{t("maps.location_on_map")}</h3>
             <hr className="hr-maps" />
             <div className="map-container">
                 <a href={Map1} target="_blank" rel="noreferrer"><img src={Map1} alt="Val Thorens map" /></a>

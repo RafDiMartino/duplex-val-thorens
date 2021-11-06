@@ -6,9 +6,11 @@ import { useTranslation} from 'react-i18next'
 
 function Navbar() {
 
-    const { t, i18n} = useTranslation()
+    const { t, i18n } = useTranslation()
+
     const changeLanguage = (lng) => {
         i18n.changeLanguage(lng)
+        setOpenMenu(!openMenu)
     }
 
     const [openMenu, setOpenMenu] = useState(false)
@@ -49,8 +51,8 @@ function Navbar() {
                     <li onClick={toogleMenu}><Link to="/contacts">{t("navbar.contacts")}</Link></li>
                 </ul>
                 <div className="translation-wrapper">
-                    <button className="translation" onClick={() => changeLanguage("fr")}><span className="flag-icon flag-icon-fr"></span></button>
-                    <button className="translation" onClick={() => changeLanguage("en")}><span className="flag-icon flag-icon-gb"></span></button>
+                    <button className="translation"  onClick={() => changeLanguage("fr")}><span className="flag-icon flag-icon-fr"></span></button>
+                    <button className="translation"  onClick={() => changeLanguage("en")}><span className="flag-icon flag-icon-gb"></span></button>
                 </div>
             </div>
         </nav>

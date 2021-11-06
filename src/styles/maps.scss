@@ -23,6 +23,14 @@
     color: var(--mainText);
 }
 
+.hr-maps {
+    background-color: var(--dropdown);
+    width: 100px;
+    height: 2px;
+    margin: 1rem;
+    border: none;
+}
+
 .map-container {
     display: flex;
     flex-direction: column;
@@ -48,14 +56,6 @@ iframe {
 }
 
 @media screen and (min-width: 1024px){
-    
-    .hr-maps {
-        background-color: var(--dropdown);
-        width: 200px;
-        height: 2px;
-        margin: 3rem 0 0;
-        border: none;
-    }
 
     .map-container {
         flex-direction: row;

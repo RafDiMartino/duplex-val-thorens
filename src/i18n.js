@@ -5,7 +5,6 @@ import { initReactI18next } from "react-i18next"
 import translationEN from "../src/locales/en/translationEN.json"
 import translationFR from "../src/locales/fr/translationFR.json"
 
-
 const resources = {
     fr: {
       translation: translationFR
@@ -17,7 +16,7 @@ const resources = {
 
 i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
     resources,
-    lng: "en",
+    lng: "fr",
     fallbackLng: "en",
     debug: true,
     detection: {

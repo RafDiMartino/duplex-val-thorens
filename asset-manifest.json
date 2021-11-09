@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/duplex-val-thorens/static/css/main.b46b55ff.chunk.css",
-    "main.js": "/duplex-val-thorens/static/js/main.bb1f1827.chunk.js",
-    "main.js.map": "/duplex-val-thorens/static/js/main.bb1f1827.chunk.js.map",
+    "main.css": "/duplex-val-thorens/static/css/main.b2c7762f.chunk.css",
+    "main.js": "/duplex-val-thorens/static/js/main.f76954ad.chunk.js",
+    "main.js.map": "/duplex-val-thorens/static/js/main.f76954ad.chunk.js.map",
     "runtime-main.js": "/duplex-val-thorens/static/js/runtime-main.8ca6db05.js",
     "runtime-main.js.map": "/duplex-val-thorens/static/js/runtime-main.8ca6db05.js.map",
     "static/css/2.18a948cb.chunk.css": "/duplex-val-thorens/static/css/2.18a948cb.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f203f2bf.chunk.js.map": "/duplex-val-thorens/static/js/3.f203f2bf.chunk.js.map",
     "index.html": "/duplex-val-thorens/index.html",
     "static/css/2.18a948cb.chunk.css.map": "/duplex-val-thorens/static/css/2.18a948cb.chunk.css.map",
-    "static/css/main.b46b55ff.chunk.css.map": "/duplex-val-thorens/static/css/main.b46b55ff.chunk.css.map",
+    "static/css/main.b2c7762f.chunk.css.map": "/duplex-val-thorens/static/css/main.b2c7762f.chunk.css.map",
     "static/js/2.4c13cc83.chunk.js.LICENSE.txt": "/duplex-val-thorens/static/js/2.4c13cc83.chunk.js.LICENSE.txt",
     "static/media/flag-icons.min.css": "/duplex-val-thorens/static/media/zw.cd37458b.svg",
     "static/media/apartment.scss": "/duplex-val-thorens/static/media/buildingView.a9e0ce8c.webp",
@@ -52,7 +52,7 @@
     "static/js/runtime-main.8ca6db05.js",
     "static/css/2.18a948cb.chunk.css",
     "static/js/2.4c13cc83.chunk.js",
-    "static/css/main.b46b55ff.chunk.css",
-    "static/js/main.bb1f1827.chunk.js"
+    "static/css/main.b2c7762f.chunk.css",
+    "static/js/main.f76954ad.chunk.js"
   ]
 }

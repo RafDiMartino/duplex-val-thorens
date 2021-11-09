@@ -79,6 +79,7 @@
     "rates": {
         "period": "Period",
         "weekly_rates": "Weekly Rates",
+        "short_stay_title": "Short Stays",
         "short_stay": "We offer the possibility for short stays depending on the period and provided that the stay includes a minimumof 2 consecutive nights. Contact us for rates information.",
         "seasons": {
             "season_start": {
@@ -118,5 +119,15 @@
     },
     "maps": {
         "location_on_map": "The apartment building is number 12 on the map, under “QUARTIER SOLEIL – SOLEIL DISTRICT”."
+    },
+    "contacts": {
+        "full_name": "Full Name",
+        "email": "E-Mail",
+        "message": "Write your message here...",
+        "send": "Send"
+    },
+    "success": {
+        "thank_you": "Thank you for contacting us!",
+        "thank_you2": "We will get back to you as soon as possible."
     }
 }

@@ -7,6 +7,7 @@ import Rates from './pages/Rates';
 import Maps from './pages/Maps';
 import Contacts from './pages/Contacts';
 import Footer from './components/footer/Footer';
+import Success from "./pages/Success";
 
 const _ScrollToTop = (props) => {
   const { pathname } = useLocation();
@@ -29,6 +30,7 @@ function App() {
             <Route path="/rates" exact component={Rates}/>
             <Route path="/maps" exact component={Maps}/>
             <Route path="/contacts" exact component={Contacts}/>
+            <Route path="/success" exact component={Success}/> 
           </ScrollToTop>
         </Switch>
         <Footer />

@@ -62,7 +62,7 @@ function Rates() {
                 rates="2950€"
             />
             <div className="short-stay-wrapper">
-                <h1 className="h1-short-stay">Short Stays</h1>
+                <h1 className="h1-short-stay">{t("rates.short_stay_title")}</h1>
                 <hr className="hr-rates" />
                 <p className="short-stay">{t("rates.short_stay")}</p>
             </div>

@@ -25,7 +25,11 @@
             color: var(--navFontColor);
             font-weight: 500;
             padding: 0.5rem 2rem;
-    
+            
+            a {
+                color: var(--navFontColor);
+            }
+
             p {
                 padding-left: 0.3rem; 
             }

@@ -79,6 +79,7 @@
     "rates": {
         "period": "Période",
         "weekly_rates": "Tarifs Semaine",
+        "short_stay_title": "Courts Séjours",
         "short_stay": "Possibilité de courts séjours suivant périodes avec un minimum de 2 nuits consécutives. Nous contacter pour les tarifs.",
         "seasons": {
             "season_start": {
@@ -118,5 +119,15 @@
     },
     "maps": {
         "location_on_map": "L'immeuble est le numéro 12 sur la carte."
+    },
+    "contacts": {
+        "full_name": "Nom",
+        "email": "E-Mail",
+        "message": "Écrivez votre message ici...",
+        "send": "Envoyer"
+    },
+    "success": {
+        "thank_you": "Merci de nous avoir contacté!",
+        "thank_you2": "Nous vous répondrons dans les meilleurs délais."
     }
 }

@@ -38,8 +38,8 @@ function Navbar() {
                     <li><Link to="/contacts">{t("navbar.contacts")}</Link></li>
                 </ul>
                 <div className="translation-wrapper">
-                    <button className="translation" onClick={() => changeLanguage("fr")}><span className="flag-icon flag-icon-fr"></span></button>
-                    <button className="translation" onClick={() => changeLanguage("en")}><span className="flag-icon flag-icon-gb"></span></button>
+                    <button aria-label="french translation" className="translation" onClick={() => changeLanguage("fr")}><span className="flag-icon flag-icon-fr"></span></button>
+                    <button aria-label="english translation" className="translation" onClick={() => changeLanguage("en")}><span className="flag-icon flag-icon-gb"></span></button>
                 </div>
             </div>
             <div className={openMenu ? "nav-links" : "nav-links-closed"}>

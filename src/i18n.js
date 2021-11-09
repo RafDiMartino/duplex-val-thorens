@@ -25,9 +25,6 @@ i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
     },
     interpolation: {
         escapeValue: false
-    },
-    backend: {
-      loadPath: "src/locales/{{lng}}/translationEN.json`"
     }
 })
 

@@ -8,7 +8,7 @@ function HomeDescription({ text, image, className }) {
                 <div className={className}>
                     <img className="view" src={image} alt="view" />
                     <div className="text-wrapper">
-                        <div className="border-text" />
+                        
                         <h2 className="main-text">{text}</h2>
                         <div className="border-text" /> 
                     </div>  

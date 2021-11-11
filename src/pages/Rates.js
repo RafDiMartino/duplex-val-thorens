@@ -16,9 +16,6 @@ function Rates() {
                 h1={t("headers.page_title_rates")}
                 h2={t("headers.title_rates")}
             />
-            <div>
-                <img src="https://330605.weebnb.com/calendar/ical/f094a43639f94ebf844a31a7d2ada028.ics" alt="" />
-            </div>
             <RatesTable 
                 season={t("rates.seasons.season_start.season_title")}
                 period={t("rates.seasons.season_start.months")}

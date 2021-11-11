@@ -1,11 +1,11 @@
 import React from 'react'
-import "../styles/home.scss"
 import HomeDescription from '../components/home-description/HomeDescription'
 import Background from "../assets/view-resized.webp"
 import HomeImage2 from "../assets/living-room-resized.webp"
 import HomeImage3 from "../assets/home-bedroom-resized.webp"
 import Header from '../components/header/Header'
 import { useTranslation} from 'react-i18next'
+import "../styles/home.scss"
 
 function Home() {
 

@@ -1,5 +1,4 @@
 nav {
-    background-color: rgb(17, 17, 17);
     background-color: var(--navbar);
     padding: 1rem 1rem;
     display: flex;
@@ -135,9 +134,6 @@ nav {
             opacity: 1;
             transition: opacity .5s ease 0.1s;
             border-bottom: 1.5px solid var(--mainText);
-            // &:last-child {
-            //     border-bottom: 0px solid var(--mainText);
-            // }
         }
     }
     .translation-wrapper{
@@ -202,7 +198,6 @@ nav {
             
             &:hover {
                 color: var(--dropdown);
-                // border-bottom: 1px solid var(--dropdown) ;
             }
         }
     }

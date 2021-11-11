@@ -1,7 +1,7 @@
 {
   "name": "duplex-val-thorens",
   "version": "0.1.0",
-  "homepage": "https://RafDiMartino.github.io/duplex-val-thorens",
+  "homepage": "https://duplexvalthorens.com",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
